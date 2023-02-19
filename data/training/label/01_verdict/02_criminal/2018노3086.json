@@ -1,0 +1,57 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "2",
+        "caseNm": "사기",
+        "courtNm": "광주지방법원",
+        "judmnAdjuDe": "2018. 12. 28.",
+        "caseNo": "2018노3086",
+        "relateLaword": [
+            "형사소송법 제364조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "광주지방법원 순천지원",
+        "orgJdgmnAdjuDe": "2018. 10. 5.",
+        "orgJdgmnCaseNo": "2017고단2587"
+    },
+    "disposal": {
+        "disposalform": "10",
+        "disposalcontent": [
+            "피고인의 항소를 기각한다.",
+            "피고인의 항소는 이유 없으므로 형사소송법 제364조 제4항에 따라 이를 기각하기로 한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "원심의 형(징역 8월)은 너무 무거워서 부당하다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": [
+            "원심의 형 (징역 8월)은 너무 무거워서 부당하다."
+        ]
+    },
+    "facts": {
+        "bsisFacts": [
+            "이 사건 범행 편취금 합계가 8,000만원으로 적지 않다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인에게 동종 및 벌금형을 초과하는 전과가 없고, 이 사건 범행을 인정하고 있으나 이 사건 범행 편취금 합계가 8,000만원으로 적지 않은 점 및 당심에 이르기까지 피해 회복이 이루어지지 않은 점 등을 판단컨대 원심의 형이 너무 무거워서 부당하다고 보이지 않는다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인의 항소를 기각한다."
+        ]
+    }
+}
